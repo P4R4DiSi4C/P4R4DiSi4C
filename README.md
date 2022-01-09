@@ -37,7 +37,7 @@ const paradisiac = {
         },
         devOps: ["AWS", "Route53", "Azure", "Azure DevOps (CI/CD)", "Docker🐳", "Apache", "Git"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        misc: ["Firebase", "Heroku", "Windows Administration", "VDI Administration", "Laptops mangement with MDMs"]
+        misc: ["Firebase", "Heroku", "Windows Admin.", "VDI Admin.", "Laptops management with MDMs"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Python FastAPI"
