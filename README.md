@@ -22,4 +22,78 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p4r4disi4c&show_icons=true&locale=en" alt="p4r4disi4c" /></p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 5 Contributions in the Year 2022
+ > 
+> 📦 460.2 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 19 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
+🌆 Daytime    9 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
+🌃 Evening    23 commits     ██████████░░░░░░░░░░░░░░░   39.66% 
+🌙 Night      23 commits     ██████████░░░░░░░░░░░░░░░   39.66%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
+Tuesday      13 commits     █████░░░░░░░░░░░░░░░░░░░░   22.41% 
+Wednesday    21 commits     █████████░░░░░░░░░░░░░░░░   36.21% 
+Thursday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72% 
+Friday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+Sunday       12 commits     █████░░░░░░░░░░░░░░░░░░░░   20.69%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Zurich
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               14 repos            ██████████░░░░░░░░░░░░░░░   41.18% 
+C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/P4R4DiSi4C/P4R4DiSi4C/main/charts/bar_graph.png) 
+
+
+ Last Updated on 09/01/2022
 <!--END_SECTION:waka-->
