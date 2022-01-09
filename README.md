@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Zodak](https://github.com/P4R4DiSi4C/Project-Omega-Front)
 
-- 🌱 I’m currently learning **Python, FastAPI, AZ-400**
+- 🌱 I’m currently learning **Python (FastAPI), AZ-400**
 
 - 📫 How to reach me **paradisiac@ik.me**
 
