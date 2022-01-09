@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p4r4disi4c&label=Profile%20views&color=0e75b6&style=flat" alt="p4r4disi4c" /> </p>
 <p><em>IT Technician at <a href="http://www.epfl.ch">EPFL</a></em></p>
+
 - 🔭 I’m currently working on [Zodak](https://github.com/P4R4DiSi4C/Project-Omega-Front)
 
 - 🌱 I’m currently learning **Python, FastAPI, AZ-400**
