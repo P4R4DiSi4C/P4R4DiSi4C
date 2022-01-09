@@ -20,3 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p4r4disi4c&show_icons=true&locale=en&layout=compact" alt="p4r4disi4c" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p4r4disi4c&show_icons=true&locale=en" alt="p4r4disi4c" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
