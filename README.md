@@ -49,8 +49,6 @@ const paradisiac = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p4r4disi4c&show_icons=true&locale=en" alt="p4r4disi4c" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -94,16 +92,21 @@ Sunday       24 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     8 mins              ██████████░░░░░░░░░░░░░░░   39.8% 
+YAML                     7 mins              ████████░░░░░░░░░░░░░░░░░   34.46% 
+Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.67% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FASTAPI                  21 mins             ████████████████████████░   99.39% 
+Para-FastAPIMongoDB-Templ0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.0%
 
 ```
 
@@ -124,5 +127,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/P4R4DiSi4C/P4R4DiSi4C/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/01/2022
+ Last Updated on 10/01/2022
 <!--END_SECTION:waka-->
