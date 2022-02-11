@@ -49,7 +49,7 @@ const paradisiac = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p4r4disi4c&show_icons=true&locale=en" alt="p4r4disi4c" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
@@ -108,11 +108,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            █████████░░░░░░░░░░░░░░░░   37.84% 
-C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
+JavaScript               14 repos            █████████░░░░░░░░░░░░░░░░   38.89% 
+C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
@@ -122,5 +122,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/P4R4DiSi4C/P4R4DiSi4C/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2022 18:40:50 UTC
+ Last Updated on 11/02/2022 18:45:43 UTC
 <!--END_SECTION:waka-->
