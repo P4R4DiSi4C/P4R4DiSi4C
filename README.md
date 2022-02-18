@@ -49,13 +49,13 @@ const paradisiac = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p4r4disi4c&show_icons=true&locale=en" alt="p4r4disi4c" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 20 Contributions in the Year 2022
  > 
-> 📦 460.9 kB Used in GitHub's Storage 
+> 📦 461.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -122,5 +122,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/P4R4DiSi4C/P4R4DiSi4C/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2022 18:45:50 UTC
+ Last Updated on 18/02/2022 18:39:37 UTC
 <!--END_SECTION:waka-->
