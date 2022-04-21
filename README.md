@@ -92,16 +92,18 @@ Sunday       20 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr                ████████████████████████░   96.56% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 3 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 hr 3 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
@@ -122,5 +124,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/P4R4DiSi4C/P4R4DiSi4C/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/04/2022 18:40:55 UTC
+ Last Updated on 21/04/2022 18:42:54 UTC
 <!--END_SECTION:waka-->
