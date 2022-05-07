@@ -49,6 +49,8 @@ const paradisiac = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p4r4disi4c&show_icons=true&locale=en" alt="p4r4disi4c" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -92,16 +94,17 @@ Sunday       19 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   46 mins             ███████████████████████░░   94.7% 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.3%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  49 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FBScraper                49 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      49 mins             █████████████████████████   100.0%
 
 ```
 
@@ -122,5 +125,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/P4R4DiSi4C/P4R4DiSi4C/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:41:59 UTC
+ Last Updated on 07/05/2022 18:40:42 UTC
 <!--END_SECTION:waka-->
